@@ -6,7 +6,6 @@ metadata
 cookbook 'java'
 cookbook 'kagent', github: "hopshadoop/kagent-chef", branch: "master"
 cookbook 'elastic', github: "robzor92/elasticsearch-chef", branch: "HOPSWORKS-558"
-cookbook 'kkafka', github: "hopshadoop/kafka-cookbook", branch: "master"
 
 cookbook 'conda', github: "hopshadoop/conda-chef", branch: "master"
 cookbook 'hops', github: "hopshadoop/hops-hadoop-chef", branch: "master"
